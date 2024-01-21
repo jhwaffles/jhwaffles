@@ -1,6 +1,6 @@
 ## Hi I'm Justin
 
-I'm a data scientist who loves experimentation and to simplify the process. I currently work in the biotechnology industry and solve problems related to process and manufacturing. I'm focused on the intersection of healthcare and data science.
+I'm a data scientist who loves experimentation and simplifying the process. I currently work in the biotechnology industry and solve problems related to process and manufacturing. I'm focused on the intersection of healthcare and data science.
 
 ### 🔭 What I’m currently working on:
 
