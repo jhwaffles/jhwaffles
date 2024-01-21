@@ -1,10 +1,8 @@
 ## Hi I'm Justin
 
-I'm a data scientist who loves to simplify the process. Currently, I work in the biotechnology industry. I'm focused on the intersection of healthcare and data science.
+I'm a data scientist who loves to simplify the process. I currently work in the biotechnology industry and solve problems related to process development and manufacturing. I'm focused on the intersection of healthcare and data science.
 
 ### 🔭 What I’m currently working on:
-
-Outside of work, I have many interests and projects I'm working on. 
 
 <table>
   <tr>
@@ -15,9 +13,9 @@ Outside of work, I have many interests and projects I'm working on.
       <p>
         Some of my recent projects include:
         <ul>
-          <li>Developing a web app recipe recommendations off of nutrition and flavors.</li>
-          <li>Building userscripts using JavaScript to enhance existing web calculators.</li>
-          <li>Building tools to everyday personal (recipes, health data, etc)</li>
+          <li>Developing a web app that uses NLP and machine learning to make recipe recommendations based off of nutrition and flavors.</li>
+          <li>Evaluating streamlit as a way to rapidly protoype and share analysis with Python.</li>
+          <li>Building tools to log and analyze personal data (recipes, health data, etc)</li>
         </ul>
       </p>
     </td>
@@ -29,7 +27,7 @@ Outside of work, I have many interests and projects I'm working on.
 I believe continuous education is essential. Here are a few technologies and concepts I'm currently diving into:
 
 - Applications of LLM.
-- Using streamlit as a way to rapidly protoype analysis and workflows.
+- 
 
 ### 📫 How to reach me: ...
 
@@ -37,8 +35,10 @@ I believe continuous education is essential. Here are a few technologies and con
 - LinkedIn: https://www.linkedin.com/in/justin-huang-6a10782b/
 - Personal website: https://jhwaffles.github.io/
 
-### ⚡ Fun fact: ...
+### ⚡ Fun fact: 
 
+- I'm a big fan of puzzles and brain teasers. Solving them helps me exercise my problem-solving skills.
+- In my off time I enjoy climbing at my local gym, batch-cooking nutritious food, and reading.
 
 
 
