@@ -1,8 +1,10 @@
 ## Hi I'm Justin
 
+I'm a data scientist who loves to simplify the process. Currently, I work in the biotechnology industry. I'm focused on the intersection of healthcare and data science.
+
 ### 🔭 What I’m currently working on:
 
-Industry experience in biotech. Focused on intersection of healthcare and data science.
+Outside of work, I have many interests and projects I'm working on. 
 
 <table>
   <tr>
