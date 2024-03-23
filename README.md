@@ -1,26 +1,12 @@
 ## Hi I'm Justin
 
-I'm a data scientist who loves experimentation and simplifying the process. I currently work in the biotechnology industry and solve problems related to process and manufacturing. I'm focused on the intersection of healthcare and data science. [test](https://flavorspace-r842sv8gcz7vnx9ps6pwts.streamlit.app/)
+I'm a data scientist who loves experimentation and simplifying the process. I currently work in the biotechnology industry and solve problems related to process and manufacturing. I'm focused on the intersection of healthcare and data science. 
 
 ### 🔭 What I’m currently working on:
 
-<table>
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhwaffles&layout=compact&hide=css,html" alt="Most Used Languages">
-    </td>
-    <td>
-      <p>
-        Some of my recent projects include: [test](https://flavorspace-r842sv8gcz7vnx9ps6pwts.streamlit.app/)
-        <ul>
-          <li>Developing a [web app](https://flavorspace-r842sv8gcz7vnx9ps6pwts.streamlit.app/) that uses NLP and machine learning to make recipe recommendations based off of nutrition and flavors. </li>
-          <li>Automate spectral data analysis and machine learning to predict offline metabolites measurements. </li>
-          <li>Building tools to log and analyze personal data (recipes, health data, etc)</li>
-        </ul>
-      </p>
-    </td>
-  </tr>
-</table>
+- Developing a [web app](https://flavorspace-r842sv8gcz7vnx9ps6pwts.streamlit.app/) that uses NLP and machine learning to make recipe recommendations based off of nutrition and flavors. 
+- Automate spectral data analysis and machine learning to predict offline metabolites measurements. 
+- Building tools to log and analyze personal data (recipes, health data, etc)
 
 ### 🌱 I’m currently learning:
 
