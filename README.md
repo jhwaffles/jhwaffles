@@ -4,7 +4,7 @@ I'm a data scientist who loves experimentation and simplifying the process. I cu
 
 ### 🔭 What I’m currently working on:
 
-- Developing a [web app](https://flavorspace-r842sv8gcz7vnx9ps6pwts.streamlit.app/) that uses NLP and machine learning to make recipe recommendations based off of nutrition and flavors. 
+- Developing a [web app](https://flavorspace-nkugmzxwvtc7fffhsyd5tj.streamlit.app/) that uses NLP and machine learning to make recipe recommendations based off of nutrition and flavors. 
 - Automate spectral data analysis and machine learning to predict offline metabolites measurements. 
 - Building tools to log and analyze personal data (recipes, health data, etc)
 
