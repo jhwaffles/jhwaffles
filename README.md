@@ -4,15 +4,15 @@ I'm a data scientist who loves experimentation and simplifying the process. I cu
 
 ### 🔭 What I’m currently working on:
 
-- Developing a [web app](https://flavorspace-nkugmzxwvtc7fffhsyd5tj.streamlit.app/) that uses NLP and machine learning to make recipe recommendations based off of nutrition and flavors. 
-- Building tools to log and analyze personal data (recipes, health data, etc)
+- Building web tools to log and analyze personal data (sleep, cgm, symptoms)
+- Developing a [web app](https://flavorspace-nkugmzxwvtc7fffhsyd5tj.streamlit.app/) that uses NLP and machine learning to make recipe recommendations based off of nutrition and flavors.
 
 ### 🌱 I’m currently learning:
 
 I believe continuous education is essential. Here are a few technologies and concepts I'm currently learning about:
 
-- Evaluating Streamlit and Shiny as a way to rapidly protoype and share analysis using Python.
-- Practical applications of LLM.
+- Data engineering and cloud infrastructure
+- Practical applications of LLM (Automated Report Generation)
   
 ### 📫 How to reach me: ...
 
