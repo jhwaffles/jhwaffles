@@ -1,18 +1,16 @@
-## Hi I'm Justin
+## Hi I'm Justin.
 
-I'm a data scientist who loves experimentation and simplifying the process. I currently work in the biotechnology industry and solve problems related to process and manufacturing. I'm focused on the intersection of healthcare and data science. 
+I'm a data scientist who loves experimentation, data-driven insights, and simplifying the process. I currently work in the biotechnology industry and solve problems related to process and manufacturing. I'm focused on the intersection of healthcare and data science. 
 
 ### 🔭 What I’m currently working on:
 
-- Building web tools to log and analyze personal data (sleep, cgm, symptoms)
+- Building web tools to log and analyze data from wearables and symptom logs (sleep, cgm, diet, symptoms)
 - Developing a [web app](https://flavorspace-nkugmzxwvtc7fffhsyd5tj.streamlit.app/) that uses NLP and machine learning to make recipe recommendations based off of nutrition and flavors.
 
-### 🌱 I’m currently learning:
+### 🌱 I believe continuous education is essential. I’m currently learning about:
 
-I believe continuous education is essential. Here are a few technologies and concepts I'm currently learning about:
-
-- Data engineering and cloud infrastructure
-- Practical applications of LLM (Automated Report Generation)
+- Deploying ML pipelines and workflows onto cloud 
+- Practical applications of LLM
   
 ### 📫 How to reach me: ...
 
@@ -22,8 +20,8 @@ I believe continuous education is essential. Here are a few technologies and con
 
 ### ⚡ Fun facts: 
 
-- I'm fascinated with preventative healthcare and the impacts of sleep, diet, and microbiome.
-- I believe in the impact of open-source technologies and accessible education.
+- I'm fascinated with preventative healthcare and the impacts of sleep, diet, and microbiome. I once did a 72-hour fast!
+- I strongly believe in the impact of open-source technologies and accessible education.
 - In my off time I enjoy climbing at my local gym, batch-cooking nutritious food, and reading.
 
 <!--
