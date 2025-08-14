@@ -4,7 +4,7 @@ I'm a data scientist who loves experimentation, data-driven insights, and simpli
 
 ### 🔭 What I’m currently working on:
 
-- Building web tools to log and analyze data from wearables and symptom logs (sleep, cgm, diet, symptoms)
+- Building [web tools](https://connect.posit.cloud/jhwaffles/content/0198a743-8aac-6e01-b377-b7c90b9f1907) to log and analyze data from wearables and symptom logs (sleep, cgm, diet, symptoms)
 - Developing a [web app](https://flavorspace-nkugmzxwvtc7fffhsyd5tj.streamlit.app/) that uses NLP and machine learning to make recipe recommendations based off of nutrition and flavors.
 
 ### 🌱 I believe continuous education is essential. I’m currently learning about:
