@@ -2,7 +2,7 @@
 
 I'm a data scientist who loves experimentation, data-driven insights, and simplifying the process. I currently work in the biotechnology industry and solve problems related to process and manufacturing. I'm focused on the intersection of healthcare and data science. 
 
-### 🔭 What I’m currently working on:
+### 🔭 Some projects I've worked on:
 
 - Building [web tools](https://connect.posit.cloud/jhwaffles/content/0198a743-8aac-6e01-b377-b7c90b9f1907) to log and analyze data from wearables and symptom logs (sleep, cgm, diet, symptoms)
 - Developing a [web app](https://flavorspace-nkugmzxwvtc7fffhsyd5tj.streamlit.app/) that uses NLP and machine learning to make recipe recommendations based off of nutrition and flavors.
