@@ -4,8 +4,9 @@ I'm a data scientist who loves experimentation, data-driven insights, and simpli
 
 ### 🔭 Some projects I've worked on:
 
-- Building [web tools](https://0198a743-8aac-6e01-b377-b7c90b9f1907.share.connect.posit.cloud) to log and analyze data from wearables and symptom logs (sleep, cgm, diet, symptoms)
-- Developing a [web app](https://flavorspace-nkugmzxwvtc7fffhsyd5tj.streamlit.app/) that uses NLP and machine learning to make recipe recommendations based off of nutrition and flavors.
+- Built a cgm [web tool](https://0198a743-8aac-6e01-b377-b7c90b9f1907.share.connect.posit.cloud) that lets clinicans analyze cgm data via interactive plots and metrics. Also implemented advanced measures of glucose variability to bring out further insights.
+- Logged and analyzed data from wearables and symptom logs via Bearable App. Constructed behavioral model using machine learning (regression, tree-based) to predict responses. 
+- Developed a [web app](https://flavorspace-nkugmzxwvtc7fffhsyd5tj.streamlit.app/) that uses NLP and machine learning to make recipe recommendations based off of nutrition and flavors.
 
 ### 🌱 I believe continuous education is essential. I’m currently learning about:
 
